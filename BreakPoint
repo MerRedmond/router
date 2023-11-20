@@ -9,6 +9,16 @@ JSON/Portobuf/Thrift/MessagePack
 可以将软件编程变成一件很简单的事情。
 
 
+关于malloc 在嵌入式系统中不能用的原因：
+https://blog.csdn.net/weixin_42328389/article/details/124124224
+
+
+嵌入式相关开源项目、库、资料 
+相关资料的链接：https://github.com/zhengnianli/EmbedSummary
+think：是否可以将上述的嵌入式软件添加到当前的软件平台，来实现当前平台的极大丰富；
+也创建处软件架构的一些细节；帮助软件平台大发展。
+
+
 
 
 
