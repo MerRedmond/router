@@ -23,6 +23,18 @@ think：是否可以将上述的嵌入式软件添加到当前的软件平台，
 在bing 中检索时，不想检索摸个网站的方法：
 -site：https://blog.csdn.net/
 
+lauterbach Trace数据的步骤
+基于Trace32-基于SNOiOPer的变量记录
+website:
+Trace界面下，
+configur--->SNOOPer --->Memory--->SELect--->Break/Run List Draw
+文件保存：SNOOPer.Save *.ad
+加载文件：SNOOPer.Load *.ad
+
+也可以使用下面的命令将文件保存为csv格式
+PRinTer.FILE snoop_plot1.lst 设置输出文件名
+PRinTer.FileType CSV 设置输出文件格式
+WinPrint.SNOOPer.List 保存结果到文件
 
 
 
